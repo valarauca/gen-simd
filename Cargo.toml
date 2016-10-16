@@ -1,0 +1,8 @@
+[package]
+name = "gen-simd"
+version = "0.1.0"
+authors = ["Wiliam Cody Laeder <codylaeder@gmail.com>" ]
+
+[dependencies]
+regex = "0.1.*"
+lazy_static = "0.1.*"
